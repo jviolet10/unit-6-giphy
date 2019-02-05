@@ -1,0 +1,36 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+}
+
+label {
+    border: 5px;
+    background-origin: padding-box;
+    font-size: 20px;
+}
+
+.btn-default {
+    color: black;
+    font-size: medium;
+}
+
+body {
+    background-color: beige;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+
+
+
